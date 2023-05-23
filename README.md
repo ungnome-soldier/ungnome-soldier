@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ungnome-soldier
-- 👀 I’m interested in cool python tricks
-- 🌱 I’m currently learning everything about serving Next Best Actions
 - I'm all about gnome-adjacent puns.
 
 <!---
